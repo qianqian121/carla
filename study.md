@@ -16,3 +16,17 @@ client: 如下几种：
 效果：
 
 run benchmark.py
+
+https://blog.foretellix.com/2018/01/16/how-to-write-av-scenarios-and-some-notes-about-pegasus/
+https://blog.foretellix.com/2017/06/27/whats-new-in-av-verification-report-from-the-stuttgart-symposium/
+https://blog.foretellix.com/2017/07/18/whats-new-in-av-verification-stuttgart-report-part-two/
+
+metamoto
+Simulations run in Docker containers on Amazon AWS
+Interfaces within simulator handled through gRPC using protobufs
+Provides tools for parameter fuzzing (e.g. exhaustive)
+No realtime/HIL simulation.
+Can simulate sensor data (e.g. camera, LiDAR, radar)
+Currently simulates Quanergy solid state LiDAR, but may be configurable to simulate Velodyne et al.
+Allows configurable intrinsic calibration of cameras
+Can simulate Metawave directed beam radar
