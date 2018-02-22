@@ -30,3 +30,5 @@ Can simulate sensor data (e.g. camera, LiDAR, radar)
 Currently simulates Quanergy solid state LiDAR, but may be configurable to simulate Velodyne et al.
 Allows configurable intrinsic calibration of cameras
 Can simulate Metawave directed beam radar
+
+https://www.fossgis.de/w/images/e/e4/Potree.pdf
