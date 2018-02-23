@@ -36,3 +36,5 @@ https://www.fossgis.de/w/images/e/e4/Potree.pdf
 https://newatlas.com/synthia-dataset-self-driving-cars/43895/#gallery
 
 Camvid, KITTI, U-LabelMe, CBCL
+
+NYU-Depth V2 [23] (more than 1,449 images densely labelled), the PASCAL-Context Dataset [22] (10,103 images densely labelled over 540 cat- egories), and MS COCO [19] (more than 300,000 images with annotations for 80 object categories).
