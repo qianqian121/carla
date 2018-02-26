@@ -42,3 +42,5 @@ NYU-Depth V2 [23] (more than 1,449 images densely labelled), the PASCAL-Context 
 https://www.n-ix.com/unity-vs-unreal-choose-best-game-engine/
 
 http://www.pegasusprojekt.de/en/pegasus-symposium
+
+https://nerian.com/support/resources/calculator/
