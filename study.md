@@ -54,3 +54,5 @@ http://www.newsweek.com/uber-1-billion-damages-waymo-self-driving-car-lawsuit-68
 https://si.wsj.net/public/resources/images/BN-PU951_UBER09_M_20160913183950.jpg
 
 https://cdn.geekwire.com/wp-content/uploads/2018/02/uberpittsburgh2648-630x420.jpg
+
+http://robotsforroboticists.com/sensors-uber-self-driving-car/
