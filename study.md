@@ -46,3 +46,5 @@ http://www.pegasusprojekt.de/en/pegasus-symposium
 https://nerian.com/support/resources/calculator/
 
 http://www.vision-doctor.com/en/camera-technology-basics/sensor-and-pixel-sizes.html
+
+https://photo.stackexchange.com/questions/41197/is-there-maximum-distance-for-stereoscopic-photography
