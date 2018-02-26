@@ -44,3 +44,5 @@ https://www.n-ix.com/unity-vs-unreal-choose-best-game-engine/
 http://www.pegasusprojekt.de/en/pegasus-symposium
 
 https://nerian.com/support/resources/calculator/
+
+http://www.vision-doctor.com/en/camera-technology-basics/sensor-and-pixel-sizes.html
