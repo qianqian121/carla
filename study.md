@@ -50,3 +50,5 @@ http://www.vision-doctor.com/en/camera-technology-basics/sensor-and-pixel-sizes.
 https://photo.stackexchange.com/questions/41197/is-there-maximum-distance-for-stereoscopic-photography
 
 http://www.newsweek.com/uber-1-billion-damages-waymo-self-driving-car-lawsuit-682941
+
+https://si.wsj.net/public/resources/images/BN-PU951_UBER09_M_20160913183950.jpg
