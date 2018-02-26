@@ -48,3 +48,5 @@ https://nerian.com/support/resources/calculator/
 http://www.vision-doctor.com/en/camera-technology-basics/sensor-and-pixel-sizes.html
 
 https://photo.stackexchange.com/questions/41197/is-there-maximum-distance-for-stereoscopic-photography
+
+http://www.newsweek.com/uber-1-billion-damages-waymo-self-driving-car-lawsuit-682941
