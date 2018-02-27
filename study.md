@@ -56,3 +56,5 @@ https://si.wsj.net/public/resources/images/BN-PU951_UBER09_M_20160913183950.jpg
 https://cdn.geekwire.com/wp-content/uploads/2018/02/uberpittsburgh2648-630x420.jpg
 
 http://robotsforroboticists.com/sensors-uber-self-driving-car/
+
+Qasar Younis, CEO of Applied Intuition, which provides advance simulation software for autonomy.
