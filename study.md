@@ -1,3 +1,9 @@
+commands inside docker:
+
+pip2 install -r PythonClient/requirements.txt
+
+sudo apt-get update && sudo apt-get install xdg-user-dirs
+
 https://www.sohu.com/a/220734848_680233
 carla 体验效果 及代码
 2018-02-03 09:59
