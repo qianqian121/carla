@@ -65,4 +65,4 @@ http://robotsforroboticists.com/sensors-uber-self-driving-car/
 
 Qasar Younis, CEO of Applied Intuition, which provides advance simulation software for autonomy.
 
-https://www.slideshare.net/BrettJohnson1/hdl32-e-vlp16interfaceboxv1
+http://velodynelidar.com/docs/notes/63-9259%20REV%20C%20MANUAL,INTERFACE%20BOX,HDL-32E,VLP-16,VLP-32_Web-S.pdf
