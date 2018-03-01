@@ -68,3 +68,5 @@ Qasar Younis, CEO of Applied Intuition, which provides advance simulation softwa
 http://velodynelidar.com/docs/notes/63-9259%20REV%20C%20MANUAL,INTERFACE%20BOX,HDL-32E,VLP-16,VLP-32_Web-S.pdf
 
 http://velodynelidar.com/docs/manuals/VLP-16%20User%20Manual%20and%20Programming%20Guide%2063-9243%20Rev%20A.pdf
+
+https://forum.u-blox.com/index.php/6560/is-the-evk-m8u-providing-the-1-pps-as-output
