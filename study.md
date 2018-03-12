@@ -80,3 +80,5 @@ https://medium.com/alistapart/all-the-webgl-tools-and-frameworks-i-have-looked-a
 http://xmlgrid.net
 
 http://www.cs.wustl.edu/~schmidt/PDF/C++-dynamic-binding4.pdf
+
+https://isocpp.org/wiki/faq/multiple-inheritance
