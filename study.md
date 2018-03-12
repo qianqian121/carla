@@ -78,3 +78,5 @@ https://www.u-blox.com/sites/default/files/EVK-M8U_UserGuide_%28UBX-15023994%29.
 https://medium.com/alistapart/all-the-webgl-tools-and-frameworks-i-have-looked-at-a1c22154591b
 
 http://xmlgrid.net
+
+http://www.cs.wustl.edu/~schmidt/PDF/C++-dynamic-binding4.pdf
