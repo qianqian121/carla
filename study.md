@@ -82,3 +82,18 @@ http://xmlgrid.net
 http://www.cs.wustl.edu/~schmidt/PDF/C++-dynamic-binding4.pdf
 
 https://isocpp.org/wiki/faq/multiple-inheritance
+
+
+Radar sim:
+
+https://cdn.intechopen.com/pdfs-wm/10401.pdf
+
+https://ops.fhwa.dot.gov/publications/viirpt/sec5.htm
+
+http://www.radartutorial.eu/07.waves/Waves%20and%20Frequency%20Ranges.en.html
+
+http://www.fujitsu-ten.com/business/technicaljournal/pdf/39-2.pdf
+
+https://www.cst.com/~/media/cst/landing-pages/2016automotive/understanding--testing-fmcw-automotive-radar-devices.ashx
+
+https://www.nxp.com/docs/en/fact-sheet/AUTORADARFS.pdf
